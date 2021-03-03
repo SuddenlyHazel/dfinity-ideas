@@ -7,4 +7,4 @@
 5. Messaging Service
 6. RTC Zoom
 7. "Spotify" Canisters
-8. Cycles Tracking - Automatically Negotiate cycle cost
+8. Cycles Tracking - Automatically Negotiate Actions cycle cost
